@@ -1,2 +1,2 @@
-# Neog-Landing-Page
+# simple-neog-responsive-landing-page
 Created with CodeSandbox
